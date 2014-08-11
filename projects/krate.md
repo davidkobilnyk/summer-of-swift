@@ -35,8 +35,18 @@ It'll be hard to match this pace in the future, but I'm happy with what was acco
 ![Krate with Kenney graphics](http://www.thinkingswiftly.com/wp-content/uploads/2014/07/graphics.jpg)
 
 ### July 25
+More steady progress on Krate over the past two weeks.  [I wrote a blog post about increasing 'skill cap'](http://www.thinkingswiftly.com/raising-skill-cap-hinting-upcoming-events/) and some of the things I'm working on in Krate to do just that.
+
+**[Here's a video of the new HUD](https://www.youtube.com/watch?v=xQIhELP75Ys)** which lets players see their upcoming color choices.
+
+![Krate's Upcoming Colors](http://www.thinkingswiftly.com/wp-content/uploads/2014/07/upcoming-colors.png)
+
+Also, started work on the point system!  Work was pretty full, so I'm hoping to have more time in August to push forward.
 
 ### August 10
+I was able to dive in the last few days and implement levels (so the game increases in tempo and difficulty) very much like Tetris.  Also, big combos now clear out one "dead" tile.  Plus a variety of other mechanical changes.  Visually, the game looks very much like last update so I'll skip another video for this round.
+
+The great news is all of my basic game systems are in place and my mechanics are very close to being complete.  I hope to have the gameplay finished and locked in by the August 25th update.  I'll use the final month to find an artist and implement all the extras like menus and leaderboards.
 
 ### August 25
 

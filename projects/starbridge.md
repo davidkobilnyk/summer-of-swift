@@ -20,9 +20,19 @@ Name is currently under construction.
 ## Updates
 
 
-### July 10
+### July 15
+I added basic Multipeer (Thanks JP and MPCMultipeerClient) and am working on getting basic notifications and communication between the different devices working. I'm also trying to decide on final game design, with a focus on how a game will work and what each station will be doing.
 
-### July 25
+The name is still terrible and in progress.
+
+### July 29
+I have basic airplay working, and a rough idea of what each station will do. I wasn't able to make much progress but have some simple frameworks and foundations laid out.
+
+Next steps:
+- Get multipeer running and passing events
+- Get logic working in GameManager to deal with events, and pass them to appropriate devices
+- Implement four stations with simple gameplay
+- Add enemy ships and 'adventure' mode
 
 ### August 10
 
