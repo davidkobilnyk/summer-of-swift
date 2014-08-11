@@ -28,9 +28,12 @@ Created and implemented a custom delegate.
 Enjoyed the math for determining where the hand should be drawn and which hour or minute was selected based on touch position.<br/>
 Had some issues with number types -- seems like I had to typecast to CGFloat ridiculously frequently to avoid errors like "'NSNumber' is not a subtype of 'UInt8'" (even when there wasn't a UInt8 present).
 
-### July 25
 
-### August 10
+### August 11
+
+Added emoji button for setting AM/PM.<br/>
+Added a table view for adding items to be reminded about, with a button to the clock screen for adding a remind time.
+
 
 ### August 25
 
